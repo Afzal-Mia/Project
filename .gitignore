@@ -1,0 +1,8 @@
+#we can add comment by this 
+# *.png all the file with extension of .png will be considered into gitignore 
+#  *.txt  all txt file will be added
+file1.txt
+#write the exact name of the file that you want to to be ignore at the time of staging
+secret.txt
+
+#after the wrtting the nam e add into the staging area as usual you do.
